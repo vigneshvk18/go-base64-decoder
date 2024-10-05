@@ -15,5 +15,7 @@ This Go program decodes a Base64-encoded ZIP file, extracts its contents, and pr
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
-   cd repository-name
+   git clone https://github.com/vigneshvk18/go-base64-decoder.git
+   cd go-base64-decoder
+   go mod init base64
+   go run basr64-decoder.go
